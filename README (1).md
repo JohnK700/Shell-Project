@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`sish` is a lightweight Unix shell written in C from scratch. It replicates core shell behavior including running external programs, chaining commands with pipes, and managing a persistent command history — all implemented using low-level POSIX system calls.
+`sish` is a lightweight Unix shell written in C from scratch. It replicates core shell behavior including running external programs, chaining commands with pipes, and managing a persistent command history. This was all implemented using low-level POSIX system calls.
 
 **Key concepts demonstrated:**
 - Process creation and management with `fork()`, `execvp()`, and `wait()`
