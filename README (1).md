@@ -15,9 +15,7 @@
     A Unix-like interactive shell built in C, supporting command execution, multi-process piping, and command history.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug">Report Bug</a>
-    &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement">Request Feature</a>
+    
   </p>
 </div>
 
