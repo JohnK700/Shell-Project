@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">sish — Simple Shell</h3>
+<h3 align="center">sish - Shell</h3>
 
   <p align="center">
     A Unix-like interactive shell built in C, supporting command execution, multi-process piping, and command history.
