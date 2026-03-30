@@ -73,7 +73,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/JohnK700/Shell-Project.git
    ```
 2. Build the shell
    ```sh
